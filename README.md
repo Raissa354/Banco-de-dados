@@ -276,6 +276,25 @@ PRODUTO
 
 Este projeto foi desenvolvido para praticar conceitos de **banco de dados relacionais**, incluindo criação de tabelas, inserção, consulta, atualização, exclusão e relacionamento entre tabelas.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="952" height="324" alt="Captura de tela 2026-09-30 170548" src="https://github.com/user-attachments/assets/8e6679aa-2ef9-4ed7-9bc4-1c762e0c26b3" />
+
+
 <img width="726" height="439" alt="Captura de tela 2026-10-07 084113" src="https://github.com/user-attachments/assets/4398df75-2491-4074-b8ad-e8e79a3e5e97" />
 
 <img width="731" height="409" alt="Captura de tela 2026-10-07 083240" src="https://github.com/user-attachments/assets/d9506cb2-a930-43c9-9be0-13b45bba51b1" />
