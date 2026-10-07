@@ -1,3 +1,4 @@
+
 # Banco-de-dados
 Claro! Vou organizar tudo em formato de **README.md**, pronto para colocar no GitHub.
 
@@ -341,6 +342,8 @@ Este projeto foi desenvolvido para praticar conceitos de **banco de dados relaci
 
 <img width="825" height="446" alt="Captura de tela 2026-10-07 090737" src="https://github.com/user-attachments/assets/4e894eb4-86e0-4c83-add2-2440fd9a006c" />
 <img width="594" height="128" alt="Captura de tela 2026-10-07 090803" src="https://github.com/user-attachments/assets/2a3ae535-dcae-4544-94db-8eee2811184f" />
+
+
 
 
 
